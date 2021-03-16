@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nbreen
+- 👀 I’m interested in CUDA, C based languages and backend webdev
+- 🌱 I’m currently learning CUDA in addtion I am a Computer Science Student at Purdue University
+- 📫 Visit my website www.cloud9computing.duckdns.org or send me an email webmaster.cloud9computing@gmail.com
